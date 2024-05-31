@@ -1,6 +1,6 @@
 Research Track 2 - Continuous Assessment
 ================================
-The following repository contains the links directed towards the individual assingments covered during
+The following repository contains the links directed towards the individual assignments covered during
 the Research Track 2 course of the Robotics Master programme at the University of Genova, Italy.
 <br><br>
 
